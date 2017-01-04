@@ -1,4 +1,4 @@
-http://codeformiami.org
+http://codefor.miami
 ===================
 
 Landing page for *Code for Miami*, originally a fork of the landing page for *Code for Hampton Roads*
